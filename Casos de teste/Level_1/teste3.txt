@@ -1,0 +1,5 @@
+s0
+s0,s1,s2
+x
+(s0,x)
+(s0,(a,x<2,true),s1),(s1,(b,true,x:=0),s0),(s0,(c,true,true),s2)

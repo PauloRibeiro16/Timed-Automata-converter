@@ -1,0 +1,6 @@
+g0
+g0,g1,g2,g3
+y
+no
+(g0,(lower,true,x:=0),g1),(g1,(down,true,true),g2),(g2,(raise,true,y:=0),g3),(g3,(up,y>=1,true),g0)
+

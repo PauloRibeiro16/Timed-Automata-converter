@@ -1,0 +1,3 @@
+This folder contains simple examples of timed automata.
+These examples help to show how these basic expressions are constructed.
+According to the proposed structure. 

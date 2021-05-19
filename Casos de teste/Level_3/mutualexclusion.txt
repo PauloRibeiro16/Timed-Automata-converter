@@ -1,0 +1,5 @@
+sleeping
+sleeping,waiting,trying,critical
+lock
+no
+(sleeping,(w,lock=0,true),waiting),(sleeping,(s,lock!=0,true),sleeping),(waiting,(t,lock:=i,true),trying),(trying,(s,lock=i,true),sleeping),(trying,(c,lock=i,true),critical),(critical,(s,lock:=0,true),sleeping)

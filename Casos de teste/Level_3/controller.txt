@@ -1,0 +1,6 @@
+c0
+c0,c1,c2,c3
+z
+no
+(c0,(approach,z:=0,true),c1),(c1,(lower,z=1,true),c2),(c2,(exit,z:=0,true),c3),(c3,(raise,true,true),c0)
+

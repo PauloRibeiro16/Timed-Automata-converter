@@ -1,0 +1,5 @@
+t0
+t0,t1,t2,t3
+x
+no
+(t0,(approach,x:=0,true),t1),(t1,(in,x>2,true),t2),(t2,(out,true,true),t3),(t3,(exit,true,true),t0)
